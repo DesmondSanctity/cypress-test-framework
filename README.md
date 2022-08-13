@@ -19,7 +19,7 @@ CYPRESS-SAMPLE
 1. Install [Microsoft Visual Studio Code IDE](https://code.visualstudio.com). Ignore this if already installed.
 3. Install [Nodejs](https://nodejs.org/) on your system. Ignore this if already installed.
 4. Install [Git](https://git-scm.com/download/) on your system. Ignore this if already installed.
-5. ```git clone https://github.com/VikashChauhan51/cypress-sample.git``` or download `master` branch zip and extract code.
+5. ```git clone https://github.com/DesmondSanctity/cypress-test-framework.git``` or download `master` branch zip and extract code.
 6. Open project folder with VSCode.
 7.  Run  `npm install` command to restore all packages.
 8.  Run `npm run cypress:test` command to run test.
